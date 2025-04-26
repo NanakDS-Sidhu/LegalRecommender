@@ -63,6 +63,7 @@ def create_citation_network(file_path):
     
     return G
 
+
 if __name__ == "__main__":
     # Define the path to the citation data file
     file_path = "sample_citation_data.csv"  # Update with the actual file path
